@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wizardom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="wizardom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexander-ibekason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alexander-ibekason" height="30" width="40" /></a>
-<a href="https://medium.com/@alibekason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@alibekason" height="30" width="40" /></a>
+<a href="https://twitter.com/wizardom" target="blank"><img align="center" src="assets/twitter.svg" alt="wizardom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexander-ibekason" target="blank"><img align="center" src="assets/linkedin.svg" alt="alexander-ibekason" height="30" width="40" /></a>
+<a href="https://medium.com/@alibekason" target="blank"><img align="center" src="assets/medium.svg" alt="@alibekason" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
