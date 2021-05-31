@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wizardoma.github.io](wizardoma.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/alibekason](medium.com/alibekason)
+- 📝 I regularly write articles on [https://medium.com/@alibekason](medium.com/alibekason)
 
 - 💬 Ask me about **java, spring boot, flutter and software engineering principles**
 
