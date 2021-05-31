@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibekason Alexander Onyebuchi</h1>
 <h3 align="center">An It Support Engineer-turned-Software Engineer. I have a strong passion for software development and a keen interest in building enterprise software. I am a clean code advocate and have a strong discipline on software development principles</h3>
 
-- 👨‍💻 All of my projects are available at [wizardoma.github.io](wizardoma.github.io)
+- 👨‍💻 All of my projects are available at [https://wizardoma.github.io](wizardoma.github.io)
 
-- 📝 I regularly write articles on [medium.com/alibekason](medium.com/alibekason)
+- 📝 I regularly write articles on [https://medium.com/alibekason](medium.com/alibekason)
 
 - 💬 Ask me about **java, spring boot, flutter and software engineering principles**
 
