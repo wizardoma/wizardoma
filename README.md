@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibekason Alexander Onyebuchi</h1>
 <h3 align="center">An It Support Engineer-turned-Software Engineer. I have a strong passion for software development and a keen interest in building enterprise software. I am a clean code advocate and have a strong discipline on software development principles</h3>
 
-- 👨‍💻 All of my projects are available at [https://wizardoma.github.io](wizardoma.github.io)
+- 👨‍💻 All of my projects are available at [wizardoma.github.io](https://wizardoma.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@wizardom](medium.com/wizardom)
+- 📝 I regularly write articles on [medium.com/wizardom](https://medium.com/@wizardom)
 
 - 💬 Ask me about **java, spring boot, flutter and software engineering principles**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/wizardom" target="blank"><img align="center" src="assets/twitter.svg" alt="wizardom" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexander-ibekason" target="blank"><img align="center" src="assets/linkedin.svg" alt="alexander-ibekason" height="30" width="40" /></a>
-<a href="https://medium.com/@alibekason" target="blank"><img align="center" src="assets/medium.svg" alt="@alibekason" height="30" width="40" /></a>
+<a href="https://medium.com/@wizardom" target="blank"><img align="center" src="assets/medium.svg" alt="@alibekason" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

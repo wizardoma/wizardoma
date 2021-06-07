@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62b81105-6974-450f-b5f0-dee9685284f7" name="Default Changelist" comment="update bio">
+    <list default="true" id="62b81105-6974-450f-b5f0-dee9685284f7" name="Default Changelist" comment="refractor: change medium username">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1tJ0zUjJ0RnXf2v70OWXo4VR0fK" />
   <component name="ProjectViewState">
@@ -64,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622472146263</updated>
       <workItem from="1622472149668" duration="2224000" />
+      <workItem from="1622495516339" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="updated my profile readme">
       <created>1622473647791</created>
@@ -93,7 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1622474599071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: medium and portfolio article broken">
+      <created>1622495571321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622495571321</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: medium and portfolio article broken">
+      <created>1622495673684</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622495673684</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refractor: change medium username">
+      <created>1622495929723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622495929723</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,18 +132,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated my profile readme" />
     <MESSAGE value="add social media images" />
     <MESSAGE value="change profile stats theme color" />
     <MESSAGE value="update bio" />
-    <option name="LAST_COMMIT_MESSAGE" value="update bio" />
+    <MESSAGE value="fix: medium and portfolio article broken" />
+    <MESSAGE value="refractor: change medium username" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractor: change medium username" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="155" key="Vcs.Push.Dialog.v2" timestamp="1622474600678">
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1622495894851">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="386" y="155" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622474600678" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1622495894850" />
+    <state x="386" y="155" key="Vcs.Push.Dialog.v2" timestamp="1622495931278">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="386" y="155" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622495931278" />
   </component>
 </project>
